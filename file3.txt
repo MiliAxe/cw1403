@@ -1,6 +1,6 @@
 hello this is a cool file
 hello this is a cool file
-hello this is a cool file
+hello this is a conflict
 hello this is a cool file
 hello this is a cool file
 1234
